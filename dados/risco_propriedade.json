@@ -1,0 +1,75 @@
+{
+"risco_propriedade": [
+	{
+		"id_risco_propriedade" : 1,
+		"cd_propriedade" : 1,
+		"nm_criterio" : "Fronteira com Argentina",
+		"score_criterio" : 25
+	},
+	{
+		"id_risco_propriedade" : 2,
+		"cd_propriedade" : 1,
+		"nm_criterio" : "Movimentação sem Guia de Trânsito Animal",
+		"score_criterio" : 30
+	},
+	{
+		"id_risco_propriedade" : 3,
+		"cd_propriedade" : 1,
+		"nm_criterio" : "Histórico de doença na propriedade no período de 12 meses",
+		"score_criterio" : 10
+	},
+	{
+		"id_risco_propriedade" : 4,
+		"cd_propriedade" : 3,
+		"nm_criterio" : "Histórico de doença na propriedade no período de 12 meses",
+		"score_criterio" : 10
+	},
+	{
+		"id_risco_propriedade" : 5,
+		"cd_propriedade" : 4,
+		"nm_criterio" : "Movimentação sem Guia de Trânsito Animal",
+		"score_criterio" : 30
+	},
+	{
+		"id_risco_propriedade" : 6,
+		"cd_propriedade" : 4,
+		"nm_criterio" : "Propriedade próxima de aterros sanitários",
+		"score_criterio" : 40
+	},
+	{
+		"id_risco_propriedade" : 7,
+		"cd_propriedade" : 5,
+		"nm_criterio" : "Fronteira com Argentina",
+		"score_criterio" : 25
+	},
+	{
+		"id_risco_propriedade" : 8,
+		"cd_propriedade" : 1,
+		"nm_criterio" : "",
+		"score_criterio" : 0
+	},
+	{
+		"id_risco_propriedade" : 9,
+		"cd_propriedade" : 2,
+		"nm_criterio" : "",
+		"score_criterio" : 0
+	},
+	{
+		"id_risco_propriedade" : 10,
+		"cd_propriedade" : 3,
+		"nm_criterio" : "",
+		"score_criterio" : 0
+	},
+	{
+		"id_risco_propriedade" : 11,
+		"cd_propriedade" : 4,
+		"nm_criterio" : "",
+		"score_criterio" : 0
+	},
+	{
+		"id_risco_propriedade" : 12,
+		"cd_propriedade" : 5,
+		"nm_criterio" : "",
+		"score_criterio" : 0
+	}
+]}

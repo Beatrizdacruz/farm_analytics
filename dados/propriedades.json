@@ -1,0 +1,38 @@
+{
+"propriedade": [
+	{
+		"id_propriedade" : 1,
+		"cd_oficial" : 123456,
+		"nr_unidade_exploracao": 1,
+		"nm_propriedade": "Fazenda do Rodrigo",
+		"dt_fim" : null
+	},
+	{
+		"id_propriedade" : 2,
+		"cd_oficial" : 456789,
+		"nr_unidade_exploracao": 2,
+		"nm_propriedade": "Chácara do Felippe",
+		"dt_fim" : null
+	},
+	{
+		"id_propriedade" : 3,
+		"cd_oficial" : 789123,
+		"nr_unidade_exploracao": 3,
+		"nm_propriedade": "Sítio da Andrieli",
+		"dt_fim" : "2022-06-01"
+	},
+	{
+		"id_propriedade" : 4,
+		"cd_oficial" : 256287,
+		"nr_unidade_exploracao": 1,
+		"nm_propriedade": "Pousada da Joana",
+		"dt_fim" : null
+	},
+	{
+		"id_propriedade" : 5,
+		"cd_oficial" : 564132,
+		"nr_unidade_exploracao": 2,
+		"nm_propriedade": "Casa do João",
+		"dt_fim" : null
+	}
+]}

@@ -1,0 +1,33 @@
+{
+"dados_propriedade": [
+	{
+		"cd_propriedade" : 1234561,
+		"cd_especie" : 3,
+		"qt_animais" : 5
+	},
+	{
+		"cd_propriedade" : 1234561,
+		"cd_especie" : 4,
+		"qt_animais" : 8
+	},
+	{
+		"cd_propriedade" : 4567892,
+		"cd_especie" : 3,
+		"qt_animais" : 3
+	},
+	{
+		"cd_propriedade" : 4567892,
+		"cd_especie" : 4,
+		"qt_animais" : 16
+	},
+	{
+		"cd_propriedade" : 2562871,
+		"cd_especie" : 4,
+		"qt_animais" : 83
+	},
+	{
+		"cd_propriedade" : 5641232,
+		"cd_especie" : 3,
+		"qt_animais" : 45
+	}
+]}
